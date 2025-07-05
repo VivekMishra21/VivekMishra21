@@ -54,9 +54,10 @@ technical_background:
 currently_learning: ["Docker, Kubernetes, and React Native"]
 hobbies: ["Gaming", "Bike Riding", "Movies","Comedy"]
 ```
-  
+  <p align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
 <br><br>
+  </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekmishra21&label=Profile%20views&color=0e75b6&style=flat" alt="vivekmishra21" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivekmishra21" alt="vivekmishra21" /></a> </p>
