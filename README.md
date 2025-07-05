@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vivek Mishra</h1>
 <h3 align="center">Software Engineer</h3>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p><p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekmishra21&label=Profile%20views&color=0e75b6&style=flat" alt="vivekmishra21" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivekmishra21" alt="vivekmishra21" /></a> </p>
