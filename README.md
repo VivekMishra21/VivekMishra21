@@ -9,11 +9,15 @@
 <h1 align="center"> I'm Vivek Mishra</h1>
 
 
-<p align="center">
- <h3 align="left">Software Engineer</h3>
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
-<br><br>
-</p>
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 200px;">
+    <h3 style="margin-left: 20px;">Software Engineer</h3>
+  </div>
+  <div style="flex: 1; min-width: 200px; text-align: right;">
+    <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" style="max-width: 100%; height: auto;">
+  </div>
+</div>
+
 
 <h1 align="center">
   Let's Connect and have a Chat!💬
