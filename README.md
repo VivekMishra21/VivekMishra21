@@ -9,6 +9,38 @@
   Let's Connect and have a Chat!💬
 </h1>
 
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+
+```yaml
+name: Vivek Mishra
+located_in: Delhi.India
+education:
+  [
+    "Self-Taught Developer
+    "Master's in Computer Engineering",
+    "Bachelor's in Computer Engineering",
+  ]
+
+
+fields_of_interests:
+  [
+    "Backend Development",
+    "Full Stack",
+    "Java Development",
+    "DevOps",
+  ]
+technical_background:
+  [
+    "Java"
+   "Intern - Golang",
+    
+    
+  ]
+  
+currently_learning: ["Docker, Kubernetes, and React Native"]
+hobbies: ["Gaming", "Bike Riding", "Movies","Comedy"]
+```
+  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekmishra21&label=Profile%20views&color=0e75b6&style=flat" alt="vivekmishra21" /> </p>
 
