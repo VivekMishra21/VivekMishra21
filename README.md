@@ -48,7 +48,7 @@ technical_background:
   ]
   
 currently_learning: ["Docker, Kubernetes, and React Native"]
-hobbies: ["Gaming", "Bike Riding", "Movies","Comedy"]
+hobbies: ["Gaming", "Bike Riding", "Movies","Travelling"]
 ```
   <p align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
