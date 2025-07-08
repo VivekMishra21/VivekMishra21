@@ -27,8 +27,8 @@ located_in: Delhi.India
 education:
   [
     "Self-Taught Developer
-    "Master's in Computer Engineering",
-    "Bachelor's in Computer Engineering",
+    "Master's in Computer Applications MCA",
+    "Bachelor's in Computer Applications BCA",
   ]
 
 
@@ -47,7 +47,7 @@ technical_background:
     
   ]
   
-currently_learning: ["Docker, Kubernetes, and React Native"]
+currently_learning: ["Docker, AWS and React"]
 hobbies: ["Gaming", "Bike Riding", "Movies","Travelling"]
 ```
   <p align="center">
